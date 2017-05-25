@@ -1,0 +1,25 @@
+Peli: Uber simulator
+Moottori: Unity
+Tekij‰t: Joni Laukka, Jari Loippo, Matti Schroderus
+
+Kuvaus:
+Ajetaan Uber(tm)-taksia. Otetaan asiakkaita kyytiin ja tehd‰‰n heid‰n vaatimiaan asioita (perille mahdollisimman nopeasti, driftataa...). Erityyppisi‰ asiakkaita (nopeasti perill‰, drifti, poliisi, pelle).
+
+Aikataulusuunnitelma
+Auto:
+Auton fysiikat 			vko 10.	Joni Laukka
+
+Asiakas:
+Asiakaspohja 			vko 11.	Joni Laukka
+Spawnit, m‰‰r‰np‰‰		vko 11. Joni Laukka
+Asikastyypit			vko 14.	Jari Loippo, Matti Schroderus
+
+Maailma:
+Auton navigaattori 		vko 12.	Joni Laukka
+HUD, Minimap			vko 13.	Joni Laukka
+Assetit, modelit, pelialue	vko 16.	Jari Loippo, Matti Schroderus
+NPC-olioita			vko 17.	Joni Laukka, Jari Loippo
+ƒ‰net				vko 17.	Jari Loippo, Joni Laukka, Matti Schroderus
+Erikoistehosteet (ehdollinen)	vko 17.	Jari Loippo
+
+Valmis				vko 17.
