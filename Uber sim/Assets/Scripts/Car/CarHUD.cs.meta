@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3dc4761d6099b1341944df4c3b2365bd
+timeCreated: 1493494297
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - customerText: {fileID: 114158275934830064, guid: 37c7988fefc10d54b822b3cc3a0d5ea8,
+      type: 2}
+  - infoText: {instanceID: 0}
+  - durabilityText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - speedText: {instanceID: 0}
+  - speedSlider: {instanceID: 0}
+  - durabilitySlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

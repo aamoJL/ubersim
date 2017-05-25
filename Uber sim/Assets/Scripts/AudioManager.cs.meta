@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9bb4f285f82b1924d9b2a0434c9d99eb
+timeCreated: 1493493680
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mixer: {fileID: 24100000, guid: eb6690dedc5972741a4466eb891d18c7, type: 2}
+  - backgroundSource: {instanceID: 0}
+  - speechSource: {instanceID: 0}
+  - effectSource: {instanceID: 0}
+  - destinationSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
