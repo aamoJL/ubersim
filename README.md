@@ -16,12 +16,15 @@ Menu: esc
 UberStage restart: R
 
 ## Peliohjeet
+
+Esc-napilla avaa valikon, josta voi muuttaa pelin ääniasetuksia.
+
 ### MainGame
 Hae asiakas kyytiin ja vie määränpäähän. Pisteitä saa asiakkaan toiveita toteuttamalla.
 
 Pelaajan auton kestävyys vähenee törmäyksistä. Kestävyyttä saa lisää keräämällä korjauspalloja. AI autot ajavat asiakkaiden päälle ja lähtevät pelaajan perään, jos pelaaja on tarpeeksi lähellä.
 
-Peli loppuu kun pelaajan auto hajoaa tai 10min aikaraja loppuu.
+Peli loppuu kun pelaajan auto hajoaa tai 10min aikaraja loppuu. Pelin lopussa voi tallentaa omat pisteet taulukkoon. Pisteet näkee päävalikosta.
 
 Minimap: sininen - pelaaja, punainen - kilpailija AI, valkoinen - asiakas, kuutio - korjauspallo
 #### Asiakastyypit
@@ -35,7 +38,7 @@ Alma: lähettää Poliisileijonan pelaajan perään.
 Pelle: vaihtaa pelaajan kontrollit.
 
 ### Uber Stage
-Aja rata loppuun mahdollisimman nopeasti.
+Aja rata loppuun mahdollisimman nopeasti. Pelin lopussa voi tallentaa omat pisteet taulukkoon. Uber Stage pisteitä ei näe päävalikosta.
 
 ### Tutorial
 MainGame ilman aikarajaa, pisteitä ja auton kestävyyttä. 4 kilpailevaa AI autoa voi laittaa päälle ja pois.
