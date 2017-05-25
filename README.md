@@ -1,6 +1,8 @@
 # Uber Simulator
 peliohjelmointikurssin harjoitustyo 2017.
 
+Tekijät: Joni Laukka, Matti Schroderus, Jari Loippo
+
 UnityProject kansiossa unity 5 projektitiedostot ilman musiikkeja.
 
 ## Kontrollit
@@ -11,10 +13,15 @@ Menu: esc
 UberStage restart: R
 
 ## Peliohjeet
-### Main Game
+### MainGame
 Hae asiakas kyytiin ja vie määränpäähän. Pisteitä saa asiakkaan toiveita toteuttamalla.
 
-Asiakkaita neljä erilaista:
+Pelaajan auton kestävyys vähenee törmäyksistä. Kestävyyttä saa lisää keräämällä korjauspalloja. AI autot ajavat asiakkaiden päälle ja lähtevät pelaajan perään, jos pelaaja on tarpeeksi lähellä.
+
+Peli loppuu kun pelaajan auto hajoaa tai 10min aikaraja loppuu.
+
+Minimap: sininen - pelaaja, punainen - kilpailija AI, valkoinen - asiakas, kuutio - korjauspallo
+#### Asiakastyypit
 
 Jeff: haluaa määränpäähän mahdollisimman nopeasti.
 
@@ -22,12 +29,8 @@ Alma: lähettää Poliisileijonan pelaajan perään.
 
 Clown: vaihtaa pelaajan kontrollit.
 
-Minimap: sininen - pelaaja, punainen - kilpailija AI, valkoinen - asiakas
-
-Peli loppuu kun pelaajan auto hajoaa tai 10min aikaraja loppuu.
-
 ### Uber Stage
 Aja rata loppuun mahdollisimman nopeasti.
 
 ### Tutorial
-Main Game ilman aikarajaa ja pisteitä. 4 kilpailevaa AI autoa voi laittaa päälle ja pois.
+Main Game ilman aikarajaa, pisteitä ja auton kestävyyttä. 4 kilpailevaa AI autoa voi laittaa päälle ja pois.
