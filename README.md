@@ -1,5 +1,5 @@
 # Uber Simulator
-peliohjelmointikurssin harjoitustyo 2017.
+peliohjelmointikurssin harjoitustyö 2017.
 
 Tekijät: Joni Laukka, Matti Schroderus, Jari Loippo
 
