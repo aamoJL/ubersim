@@ -25,9 +25,11 @@ Minimap: sininen - pelaaja, punainen - kilpailija AI, valkoinen - asiakas, kuuti
 
 Jeff: haluaa määränpäähän mahdollisimman nopeasti.
 
+Takeuchi: haluaa että pelaaja driftaa.
+
 Alma: lähettää Poliisileijonan pelaajan perään.
 
-Clown: vaihtaa pelaajan kontrollit.
+Pelle: vaihtaa pelaajan kontrollit.
 
 ### Uber Stage
 Aja rata loppuun mahdollisimman nopeasti.
