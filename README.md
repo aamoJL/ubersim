@@ -38,4 +38,4 @@ Pelle: vaihtaa pelaajan kontrollit.
 Aja rata loppuun mahdollisimman nopeasti.
 
 ### Tutorial
-Main Game ilman aikarajaa, pisteitä ja auton kestävyyttä. 4 kilpailevaa AI autoa voi laittaa päälle ja pois.
+MainGame ilman aikarajaa, pisteitä ja auton kestävyyttä. 4 kilpailevaa AI autoa voi laittaa päälle ja pois.
