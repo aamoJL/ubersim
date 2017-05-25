@@ -1,4 +1,7 @@
 # Uber Simulator
+
+Selaimella pelattava versio: https://aamojl.github.io/ubersim/
+
 peliohjelmointikurssin harjoitustyö 2017.
 
 Tekijät: Joni Laukka, Matti Schroderus, Jari Loippo
